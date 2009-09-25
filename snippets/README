@@ -1,0 +1,5 @@
+Import snippets.kpz into your Toolbox like so:
+Tools -> Import Package...
+
+This will add a handful of snippets containing shortcuts for common bits of
+Django code. 
